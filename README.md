@@ -1,3 +1,3 @@
 **Hey, I'm Adem Can** 👋
 
-I'm a [Frontend developer](https://www.linkedin.com/in/ademcancertelll/), I'm currently developing web systems.
+I'm a Junior UI Designer focused on crafting intuitive and user-centered designs. I also leverage my skills in web development to create seamless and functional digital systems.
