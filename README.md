@@ -1,3 +1,6 @@
 **Hey, I'm Adem Can** 👋
 
-I'm a Web Designer focused on crafting intuitive and user-centered designs. I also leverage my skills in web development to create seamless and functional digital systems.
+I’m a Web Designer building clear, intuitive, and user-driven digital experiences
+
+[Behance](https://www.behance.net/ademcancertel)
+[Medium](https://medium.com/@ademcertel)
